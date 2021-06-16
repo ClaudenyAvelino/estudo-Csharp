@@ -1,17 +1,17 @@
 ### Estudo-C#
-Projeto Calculadora.
+#Projeto Calculadora.
 Esse projeto tem o intuito de testar os conhecimentos 
 github e C# fundametais.
 
-Comandos C#
+#Comandos C#
 No cmd digite os seguintes comandos
 
-dotnet new console -o <nome do projeto>
-logo após acesse a pasta
-escolhe a IDE preferida e corre para o abraço.
+#dotnet new console -o <nome do projeto>
+#logo após acesse a pasta
+#escolhe a IDE preferida e corre para o abraço.
 
-Passo 1: 
-Salvar o projeto no seu Github
+#Passo 1: 
+#alvar o projeto no seu Github
 
 #git config --global user.name <seu nome>
 #git config --global user.email <seu email>
