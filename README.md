@@ -1,4 +1,4 @@
-# estudo-C-
+# Estudo-C#
 Passo 1: 
 Salvar o projeto no seu Github
 
