@@ -1,7 +1,7 @@
 ### Estudo-C#
 Projeto Calculadora.
 Esse projeto tem o intuito de testar os conhecimentos 
-github e C#.
+github e C# fundametais.
 
 Comandos C#
 No cmd digite os seguintes comandos
@@ -23,12 +23,12 @@ git add .
 git commit -m "Project created"
 
 git remote add origin <seu endereço>
+
 #adiciona o ssh
+
 Gerar uma nova chave SSH
 Abra Git Bash.
-
 Cole o texto abaixo, substituindo o endereço de e-mail pelo seu GitHub.
-
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 git push -u origin main
