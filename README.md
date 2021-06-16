@@ -1,4 +1,6 @@
 # estudo-C-
+Passo 1: 
+Salvar o projeto no seu Github
 
 git config --global user.name <seu nome>
 git config --global user.email <seu email>
