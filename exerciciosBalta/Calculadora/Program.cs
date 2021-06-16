@@ -7,9 +7,8 @@ namespace Calculadora
         static void Main(string[] args)
         {
             Menu();
-        }
-
-          }      
+            
+        }      
         static void Menu(){
             Console.Clear();
             Console.WriteLine("O que deseja fazer ?? ");
@@ -33,7 +32,7 @@ namespace Calculadora
             }
         }
 
-        static void Soma(){
+            static void Soma(){
              System.Console.Clear();
              Console.WriteLine("Primeiro valor ");
             float v1 = float.Parse(Console.ReadLine());
@@ -48,8 +47,7 @@ namespace Calculadora
            Console.ReadKey();
            Menu();
             }
-
-              static void Subtracao(){
+            static void Subtracao(){
                 Console.Clear();
                 Console.WriteLine("Primeiro valor ");
                 float V1 = float.Parse(Console.ReadLine());
@@ -63,7 +61,7 @@ namespace Calculadora
                 Console.ReadKey();
                 Menu();
             }
-             static void Divisao(){
+                static void Divisao(){
                     Console.Clear();
 
                     Console.Clear();
@@ -80,7 +78,8 @@ namespace Calculadora
                     Console.ReadKey();
                     Menu();
                 }
-                 static void Multiplicacao(){
+
+                static void Multiplicacao(){
                     Console.Clear();
 
                     Console.Clear();

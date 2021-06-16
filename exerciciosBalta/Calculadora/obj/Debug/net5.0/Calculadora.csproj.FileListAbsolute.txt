@@ -1,0 +1,16 @@
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\Calculadora.csprojAssemblyReference.cache
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
