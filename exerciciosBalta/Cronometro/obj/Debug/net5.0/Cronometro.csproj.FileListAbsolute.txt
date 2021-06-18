@@ -1,0 +1,16 @@
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\bin\Debug\net5.0\Cronometro.exe
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\bin\Debug\net5.0\Cronometro.deps.json
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\bin\Debug\net5.0\Cronometro.runtimeconfig.json
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\bin\Debug\net5.0\Cronometro.runtimeconfig.dev.json
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\bin\Debug\net5.0\Cronometro.dll
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\bin\Debug\net5.0\ref\Cronometro.dll
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\bin\Debug\net5.0\Cronometro.pdb
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\Cronometro.csprojAssemblyReference.cache
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\Cronometro.AssemblyInfoInputs.cache
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\Cronometro.AssemblyInfo.cs
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\Cronometro.dll
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\ref\Cronometro.dll
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\Cronometro.pdb
+C:\Workspaces\w-vsc\estudoCsharp\exerciciosBalta\Cronometro\obj\Debug\net5.0\Cronometro.genruntimeconfig.cache
