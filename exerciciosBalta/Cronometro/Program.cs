@@ -21,11 +21,8 @@ namespace Cronometro
                 int time = int.Parse(data.Substring(0, data.Length - 1));
 
                 System.Console.WriteLine(type);
-                System.Console.WriteLine(time);
-              
+                System.Console.WriteLine(time);              
             }
-
-
             static void Start(int time){
             // System.Console.WriteLine("Iforme o tempo :");
             // int time = int.Parse(Console.ReadLine());
